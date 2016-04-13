@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indexfungorumsis00hoff_0097.png"; bbox 0 0 2334 3618; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 51 250 1109 433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 51 250 1109 433">
+     <span class='ocr_line' id='line_1_1' title="bbox 51 250 1109 326; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 51 281 267 326; x_wconf 50' lang='grc' dir='ltr'><strong>αξξ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 279 250 1109 326; x_wconf 39' lang='lat' dir='ltr'><strong>meeivvffoffiffff.335.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 57 329 996 433; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 57 357 83 408; x_wconf 62' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_4' title='bbox 100 349 351 433; x_wconf 41' lang='lat' dir='ltr'><strong>‚nos-dds.»</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 375 342 530 405; x_wconf 44' lang='lat'><strong>&amp;3014</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 547 337 752 378; x_wconf 49' lang='lat' dir='ltr'><strong>,affl-505.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 766 343 858 396; x_wconf 35' lang='lat' dir='ltr'><strong>wem.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 883 329 949 381; x_wconf 53' lang='grc' dir='ltr'><strong>ἃ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 970 355 996 365; x_wconf 85' lang='grc'><strong>..</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1142 2165 2108 2262">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1142 2165 2108 2262">
+     <span class='ocr_line' id='line_1_3' title="bbox 1142 2165 2108 2262; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 1142 2170 1341 2210; x_wconf 46' lang='grc' dir='ltr'><strong>ςρῖἷ,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1367 2165 1791 2262; x_wconf 37' lang='grc' dir='ltr'><strong>Ξὲῗπαὲἓῗςῳ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1823 2178 2108 2249; x_wconf 52' lang='grc' dir='ltr'><strong>99.».Ν,ἓ.ω.ῖ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

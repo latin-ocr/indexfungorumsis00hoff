@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indexfungorumsis00hoff_0166.png"; bbox 0 0 2334 3618; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1141 46 1228 103">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1141 46 1228 103">
+     <span class='ocr_line' id='line_1_1' title="bbox 1141 46 1228 103; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1141 46 1228 103; x_wconf 83' lang='lat'>77·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 107 185 1186 380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 107 185 1186 380">
+     <span class='ocr_line' id='line_1_2' title="bbox 107 185 1186 266; baseline -0.02 -10"><span class='ocrx_word' id='word_1_2' title='bbox 107 227 110 233; x_wconf 51' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 523 215 573 252; x_wconf 48' lang='grc' dir='ltr'>ῃ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 673 194 823 248; x_wconf 50' lang='lat' dir='ltr'>..Mun</span> <span class='ocrx_word' id='word_1_5' title='bbox 849 185 1186 266; x_wconf 51' lang='lat' dir='ltr'>9Q“·3“²5⁸·5³·1·5··</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 111 202 1146 328; baseline -0.021 -60"><span class='ocrx_word' id='word_1_6' title='bbox 111 218 168 268; x_wconf 61' lang='grc'>111</span> <span class='ocrx_word' id='word_1_7' title='bbox 183 217 451 296; x_wconf 57' lang='grc' dir='ltr'>ὼδυ-υιωα</span> <span class='ocrx_word' id='word_1_8' title='bbox 478 211 533 280; x_wconf 62' lang='lat' dir='ltr'>Ege·</span> <span class='ocrx_word' id='word_1_9' title='bbox 580 202 668 277; x_wconf 47' lang='lat' dir='ltr'>bn*</span> <span class='ocrx_word' id='word_1_10' title='bbox 1006 282 1050 328; x_wconf 47' lang='grc'>,3</span> <span class='ocrx_word' id='word_1_11' title='bbox 1073 278 1146 322; x_wconf 36' lang='lat' dir='ltr'>“A</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 191 276 1088 380; baseline -0.02 -39"><span class='ocrx_word' id='word_1_12' title='bbox 191 333 243 341; x_wconf 52' lang='grc'>,-</span> <span class='ocrx_word' id='word_1_13' title='bbox 267 281 577 380; x_wconf 30' lang='grc' dir='ltr'>βδῖωᾚλιιωω</span> <span class='ocrx_word' id='word_1_14' title='bbox 599 283 995 358; x_wconf 48' lang='grc' dir='ltr'>(οημθῖῐιᾶῑὸόίυςι-’ὗω</span> <span class='ocrx_word' id='word_1_15' title='bbox 1059 276 1088 344; x_wconf 58' lang='lat' dir='ltr'>f*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
